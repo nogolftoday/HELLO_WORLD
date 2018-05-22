@@ -1,2 +1,9 @@
-# HELLO_WORLD
-Recruiting pro, to master this
+public class main {
+
+  public static void main(string [] args) {
+  
+    system.out.println("hello, world");
+    
+  }
+  
+}  
